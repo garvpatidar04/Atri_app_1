@@ -1,0 +1,12 @@
+{
+  "Flex": 120,
+  "Image": 40,
+  "TextBox": 118,
+  "Div": 31,
+  "Button": 4,
+  "Overlay": 1,
+  "UnorderedList": 3,
+  "Carousel": 2,
+  "Testimonial": 2,
+  "Dropdown": 2
+}
